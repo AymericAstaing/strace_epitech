@@ -16,7 +16,7 @@ and therefore display the following:
 
 to build:
 
-      - make / make re
+       make / make re
       
 to launch:
 
