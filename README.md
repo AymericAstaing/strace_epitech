@@ -14,10 +14,12 @@ and therefore display the following:
 • pointers on a character string in the form of a character string,
 • detailed structures (value for each field).
 
+to build:
+
+      - make / make re
+      
 to launch:
 
-- make / make re
-
-      USAGE: ./strace [-s] [-p <pid>|<command>]
+      ./strace [-s] [-p <pid>|<command>]
       
 Aymeric Astaing - EPITECH PARIS PROMO 2022
