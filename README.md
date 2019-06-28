@@ -1,4 +1,4 @@
-strace_epitech (TECH 2 2018-2019)
+# strace_epitech (TECH 2 2018-2019)
 
 strace traces a program in real time and displays all of the system calls it executes in their order of appearance.
 The goal of this projet is to develop an alternative to strace that implementing the following options:
@@ -18,4 +18,6 @@ to launch:
 
 - make / make re
 
-                  USAGE: ./strace [-s] [-p <pid>|<command>]
+      USAGE: ./strace [-s] [-p <pid>|<command>]
+      
+Aymeric Astaing - EPITECH PARIS PROMO 2022
